@@ -18,11 +18,12 @@ Le script blueteam_SOC.py permet d'automatiser les actions suivantes:
 5) Vérifier si votre mot de passe est en violation de données
 
 Le script purpleteam_SOC.py permet d'automatiser les actions suivantes:
-1) Recherche OSINT sur un domaine stratégique (GOOGLE DORKS)
-      a) Recherche de mot de passe utilisateur sur un domaine
-      b) Recherche des informations financière sur un domaine
-      c) Utilisation d'une chaîne de recherche spéciale pour trouver des sites Web vulnérables ou des vulnérabilités sur un site
-      d) Trouver des redirections ouvertes
+1) Recherche OSINT sur un domaine stratégique (GOOGLE DORKS):
+a) Recherche de mot de passe utilisateur sur un domaine
+b) Recherche des informations financière sur un domaine
+c) Utilisation d'une chaîne de recherche spéciale pour trouver des sites Web vulnérables ou des vulnérabilités sur un site
+d) Trouver des redirections ouvertes
+
 2) WHOIS grabbing
 3) Recherche d'email sur une cible
 4) Recherche de fichier sur une cible
