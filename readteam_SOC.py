@@ -148,7 +148,7 @@ while condition:
             except:
                 print("Adresse IP invalide. Reéssayez!")
         print("\n Analse des services et du système d'exploitation en cours...Patientez!!!\n\n")
-        os.system(f'nmap -O -v {ip_adr_saisie}')
+        os.system(f'nmap -O -v {ip_adr_saisie}| tail -n +3 | head -n -2')
 
         condition = False
         break;
