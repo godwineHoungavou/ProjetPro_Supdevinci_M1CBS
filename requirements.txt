@@ -10,3 +10,4 @@ pip3 install ioc-finder
 pip3 install googlesearch-python
 pip3 install jsons
 pip3 install sockets
+apt-get install sublist3r
