@@ -1,0 +1,12 @@
+apt-get -y install python3-pip
+pip3 install python3-nmap
+pip3 install python-nmap
+pip3 install requests
+pip3 install pyhibp
+pip3 install ipaddress
+pip3 install scapy
+pip3 install pyattck
+pip3 install ioc-finder
+pip3 install googlesearch-python
+pip3 install jsons
+pip3 install sockets
